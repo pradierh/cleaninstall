@@ -1,0 +1,17 @@
+# Ignore residual files
+
+# Files ending with a tilde (~)
+*~
+
+# Compiled source code
+*.o
+*.class
+*.pyc
+
+# Temporary files
+*.swp
+*.bak
+
+# IDE/Editor specific files
+.vscode/
+.idea/
