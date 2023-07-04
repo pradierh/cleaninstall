@@ -39,8 +39,9 @@ The script installs the following software and performs the corresponding config
 1. Clone this repository to your local machine.
 2. Open a terminal and navigate to the cloned directory.
 3. Run the script using the following command:
+
     ```bash
     bash ubuntu-clean-install.sh
     ```
-4. Sit back and relax while the script installs all the software for you.
-5. Enjoy your freshly installed Ubuntu system with all the essential software ready to use! 🎉
+5. Sit back and relax while the script installs all the software for you.
+6. Enjoy your freshly installed Ubuntu system with all the essential software ready to use! 🎉
