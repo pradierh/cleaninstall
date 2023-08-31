@@ -14,6 +14,10 @@ echo "Google Chrome installed"
 sudo apt install snapd -y
 echo "Snapd installed"
 
+# Install emacs
+sudo apt install emacs -y
+echo "emacs installed"
+
 # Install Discord via Snap
 sudo snap install discord
 echo "Discord installed"
@@ -121,6 +125,7 @@ echo "ZSH installed"
 # Install Oh my ZSH 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 echo "Oh my zsh installed"
+
 # Install gcc
 sudo apt install gcc -y
 echo "gcc installed"
