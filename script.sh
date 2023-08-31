@@ -114,6 +114,13 @@ echo "build essentials installed"
 sudo snap install ruby --classic -y
 echo "Ruby installed"
 
+# Install ZSH
+sudo apt install zsh -y
+echo "ZSH installed"
+
+# Install Oh my ZSH 
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+echo "Oh my zsh installed"
 # Install gcc
 sudo apt install gcc -y
 echo "gcc installed"
