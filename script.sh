@@ -15,15 +15,15 @@ sudo apt install snapd -y
 echo "Snapd installed"
 
 # Install Discord via Snap
-sudo snap install discord -y
+sudo snap install discord
 echo "Discord installed"
 
 # Install Visual Studio Code via Snap
-sudo snap install code --classic -y
+sudo snap install code --classic
 echo "Visual Studio Code installed"
 
 # Install Mailspring via Snap
-sudo snap install mailspring -y
+sudo snap install mailspring
 echo "Mailspring installed"
 
 # Install Terminator
@@ -31,11 +31,11 @@ sudo apt install terminator -y
 echo "Terminator installed"
 
 # Install WhatsApp for Linux via Snap
-sudo snap install whatsapp-for-linux -y
+sudo snap install whatsapp-for-linux
 echo "WhatsApp for Linux installed"
 
 # Install Postman via Snap
-sudo snap install postman -y
+sudo snap install postman
 echo "Postman installed"
 
 # Install qBittorrent
@@ -119,11 +119,11 @@ sudo apt install gcc -y
 echo "gcc installed"
 
 # Install Notion
-sudo snap install Notion-Snap-Reborn -y
+sudo snap install Notion-Snap-Reborn
 echo "Notion installed"
 
 # Install intellij 
-sudo snap install intellij-idea-community --classic -y
+sudo snap install intellij-idea-community --classic
 echo "IntelliJ installed"
 
 # Install popcorn time 
